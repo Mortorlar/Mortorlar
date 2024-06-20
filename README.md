@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adebimpe
 - 👀 I’m interested in telling stories with data
 - 🌱 I’m currently learning how to analyze and manipulate data using mysql
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate with software developers to optimize data collection and analysis systems.
 - 📫 How to reach me. Email-adebsonadeko@gmail.com 
    linkedin- [Adebimpe Onadeko](https://www.linkedin.com/in/adebimpe-onadeko-841aa1310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 😄 Pronouns: she/her 
