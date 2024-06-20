@@ -2,7 +2,8 @@
 - 👀 I’m interested in telling stories with data
 - 🌱 I’m currently learning how to analyze and manipulate data using mysql
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me. Email-adebsonadeko@gmail.com , linkedin- Adebimpe Onadeko
+- 📫 How to reach me. Email-adebsonadeko@gmail.com 
+   linkedin- [Adebimpe Onadeko](https://www.linkedin.com/in/adebimpe-onadeko-841aa1310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: i love learning 
 
